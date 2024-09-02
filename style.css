@@ -1,0 +1,71 @@
+body{
+color:rgb(247, 10, 10);
+background: rgb(6, 209, 236, 0.356);
+margin-bottom:100px;
+
+
+
+}
+
+header {
+
+  border-bottom: solid 2px  rgb(42, 163, 228);
+ padding: 15px;
+font-size: 20px;
+color:blueviolet;
+
+}
+
+
+.chamada {
+
+background: rgb(22, 36, 223);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content:center  ;
+}
+
+div{
+
+  margin-right: 20px;
+}
+
+h1{
+font-size:30px ;
+
+}
+p{
+  font-size: 20px;
+}
+
+img{
+ height:200px; 
+}
+
+
+.Estilos-de-jogos{
+display: flex;
+overflow: auto;
+gap: 10px;
+}
+
+.categoria{
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+}
+
+.Estilos-de-jogos img{
+opacity: 0.5;
+height: 200px;
+}
+.Estilos-de-jogos img:hover{
+  opacity: 1.0;
+  border:1px solid green
+}
+.categoria h2{
+color:crimson
+
+}
+
